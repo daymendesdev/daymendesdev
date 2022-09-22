@@ -1,8 +1,6 @@
 ### Olá, me chamo Dayanne Mendes!
 
 
-Here are some ideas to get you started:
-
 - 🌱 Estudande de Análise e desenvolvimento de sistemas
 - 😄 Pronomes: Ela/Dela
 
